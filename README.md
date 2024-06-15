@@ -47,4 +47,3 @@ If successful, terraform will create the following folder structure in the root 
 ## License
 
 This project is licensed under the MIT License. See the [License](./LICENSE) file for details.
-
